@@ -1,0 +1,10 @@
+1. whAT is git and its usage?
+2.diffference between git pull and git fetch?
+3. how to create git branch and switch branches?
+4. how to check differences between the branchea?
+5. what is pull requests?
+6.difference between merge and base?
+7. difference between SVN and git
+8. what is git tag?
+9. what is git stash?
+10.how to setup ssh. communication in your repo
